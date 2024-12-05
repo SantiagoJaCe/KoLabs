@@ -35,12 +35,12 @@ The system measures **flexion movements** using simple, accessible materials lik
 
 
 ## 🎥 **Showcase Video**
-For a detailed demonstration, watch the **Smart-Hand Showcase Video** (in Spanish). It features:
-- The assembly and operation of the glove and robotic hand.  
-- Use cases in education and rehabilitation.  
-- A glimpse into the Engineering Expo presentation.  
 
-
+For a detailed demonstration, check out the **[Smart-Hand Showcase Video](https://drive.google.com/drive/folders/1JxIsx4B3GuUUCXih6aqsFwS5kyHDRS8M?usp=sharing)** (in Spanish). The video includes:
+- The assembly and operation of the glove and robotic hand.
+- Use cases in education and rehabilitation.
+- A glimpse into the Engineering Expo presentation.
+ 
 
 ## 🛠 **Technologies and Tools Used**
 
