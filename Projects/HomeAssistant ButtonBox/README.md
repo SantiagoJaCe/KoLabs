@@ -1,5 +1,7 @@
 # 📦 **ButtonBox PCB Files**  
-### **Control Devices Through HomeAssistant**  
+### **Control Devices Through HomeAssistant** 
+
+![image](https://github.com/user-attachments/assets/19be7302-c91a-488c-910b-b2722a6434f3)
 
 This folder contains the **PCB design files** for a custom-built **ButtonBox**, a device that lets you control up to **three electrical outlets** via **HomeAssistant**. The PCBs were designed using **Altium Designer** and manufactured with a **prototyping PCB milling machine**.
 
@@ -8,7 +10,10 @@ This folder contains the **PCB design files** for a custom-built **ButtonBox**, 
 The ButtonBox is a smart device featuring:
 - **Three Buttons**: Used to toggle or control connected devices.  
 - **Three Outlet Plugs**: Each outlet can be individually controlled.  
-- **ESP32 and ESPHome Integration**: Allows seamless connection to **HomeAssistant** for automation and control.  
+- **ESP32 and ESPHome Integration**: Allows seamless connection to **HomeAssistant** for automation and control.
+
+![image](https://github.com/user-attachments/assets/9aa5bb2c-d2cd-435e-a5d2-4cc4b152fd9c)
+
 
 Although the code is not included in this repository, the PCB files provided here will allow you to recreate the hardware side of the project.
 
