@@ -1,4 +1,4 @@
-#  **KoLabs by Santiago Jácome: Electronics Playground** 🚀
+#  **KoLabs by Santiago Jácome: Electronics Portfolio**
 
 Welcome to **KoLabs**, where **electronics**, **coding**, and **creativity** come together in my projects.
 
