@@ -1,4 +1,5 @@
-# 🖐️ **Smart-Hand: Accessible Robotics and Rehabilitation Tool**  
+# 🖐️ **Smart-Hand: Accessible Robotics and Rehabilitation Tool**
+# 🎥 **[Smart-Hand Showcase Video](https://drive.google.com/drive/folders/1JxIsx4B3GuUUCXih6aqsFwS5kyHDRS8M?usp=sharing)**
 ### 🎖️ *3rd Place Winner - Engineering Expo 2022*  
 
 Welcome to the **Smart-Hand** project, an innovative prototype designed to create an **immersive educational experience** for students and an **affordable rehabilitation tool** for patients. This project won **3rd place** in the prestigious **Engineering Expo 2022** hosted by Tecnológico de Monterrey.
