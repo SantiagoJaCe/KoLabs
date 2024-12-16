@@ -4,6 +4,9 @@
 This folder contains my **first analyzed Verilog project**, a **4-bit synchronous up counter** with a complete **testbench** for simulation.
 ---
 
+![image](https://github.com/user-attachments/assets/05fcb34c-e8f8-4dd9-aacf-6078602be70a)
+
+
 **Details**  
 - **Objective**: To design and test a **positive edge-triggered counter** that:
   - Resets to `0` when `reset` is active.
