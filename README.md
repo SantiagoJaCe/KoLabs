@@ -16,6 +16,9 @@ This repository is my personal **portfolio** and **project showcase**, filled wi
 
 📜 **Code and Schematics**: I'll add commented code (like Verilog and other programming languages) and detailed circuit diagrams.
 
+![image](https://github.com/user-attachments/assets/2e963191-bd5a-48e1-8e6c-d15558117c62)
+
+
 ---
 
 ## 🛠 **Skills Highlighted**
