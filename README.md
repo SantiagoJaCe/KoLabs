@@ -28,7 +28,9 @@ Here are some of the areas covered in this repository:
 - **Digital Design**: Verilog projects, RTL coding, and FPGA development 
 - **Electronics**: Analog and digital circuits, microcontrollers (Arduino, Raspberry Pi, etc.) 
 - **Programming**: C, Python, and more, integrated into my electronics projects 
-- **Problem Solving**: Real-world challenges and solutions documented step-by-step 
+- **Problem Solving**: Real-world challenges and solutions documented step-by-step
+
+![image](https://github.com/user-attachments/assets/1b103c77-92fa-4b4b-bfdb-15599d412fcf)
   
 ---
 
@@ -38,7 +40,10 @@ This repository is more than just a collection of files—it's my **journey of g
 
 1. **Showcase My Skills**: Share my projects with potential employers and collaborators.  
 2. **Learn by Doing**: Reinforce my knowledge by creating real-world applications.  
-3. **Inspire Others**: Provide examples and resources for others learning electronics and digital design.  
+3. **Inspire Others**: Provide examples and resources for others learning electronics and digital design.
+
+![image](https://github.com/user-attachments/assets/6a66f5ec-d830-4847-b674-beb4489ca14d)
+
 
 ---
 
